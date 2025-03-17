@@ -2,9 +2,9 @@
 - 👀 I’m interested in full stack, Blockchain and web3 development 
 - 🌱 I’m currently learning solidity
 - 💞️ I’m looking to collaborate on github
-- 📫 How to reach me ...
+- 📫 How to reach me just follow me or message me on WhatsApp+2348060158364
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: lobe coding 
 
 <!---
 Spagero763/Spagero763 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
