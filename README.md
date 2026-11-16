@@ -1,12 +1,29 @@
+# Afolabi Ayomide Emmanuel
 
-## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/spagero.base.eth) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:afolabispagero71@gmail.com) 
+Smart contract engineer. I work in Solidity, Cairo and Rust, and I build the product around the contracts too: the agent or backend that drives them, the payment rails, and the interface.
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Spagero763&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Spagero763&theme=dark&hide_border=false)
+[spagero.tech](https://spagero.tech) · [afolabispagero71@gmail.com](mailto:afolabispagero71@gmail.com) · [X](https://x.com/Spagero71) · [LinkedIn](https://www.linkedin.com/in/afolabi-ayomide-emmanuel-bba6b9367/)
 
+## Shipped
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+| | What it is | Where |
+|---|---|---|
+| [Cruce](https://github.com/Spagero763/cruce) | Currency exchange agent. Pesos, reais, naira and dollars into each other at the best price across three venues, in about thirty seconds. | Celo mainnet, [usecruce.xyz](https://usecruce.xyz) |
+| [Vernier](https://github.com/Spagero763/vernier) | Uniswap v4 hook for yield-bearing assets. Corrects the pool by the rate the token publishes, so accrual reaches liquidity providers. | Unichain Sepolia, [site](https://vernier-xi.vercel.app) |
+| [Gambit](https://github.com/Spagero763/gambit) | Classic skill games for stablecoin stakes inside MiniPay. An escrow contract holds both stakes and pays the winner. | Celo mainnet, [bestgambit.live](https://www.bestgambit.live) |
+| [Bell](https://github.com/Spagero763/bell) | A market and a price feed for tokenized stocks during the hours the exchange is closed. | Base mainnet, [site](https://usebell.vercel.app) |
+| [Charter](https://github.com/Spagero763/charter) | A private fund whose only key sits in a hardware enclave that signs a trade only if it passes the mandate. | NEAR mainnet, [site](https://charter-tawny.vercel.app) |
+| [Convoy](https://github.com/Spagero763/convoy) | Fixed-lot batch execution on Starknet's privacy pool. Every order in a batch leaves as one swap at one rate. | Starknet mainnet, [site](https://convoy-brown.vercel.app) |
+
+Case studies with addresses and transactions are on [spagero.tech](https://spagero.tech).
+
+## Open source
+
+104 pull requests merged into 57 repositories I do not own, mostly Soroban and Solidity. [Read them](https://github.com/search?q=is%3Apr+is%3Amerged+author%3ASpagero763+-user%3ASpagero763&type=pullrequests).
+
+## Background
+
+- Uniswap Hook Incubator, Cohort 10 graduate
+- Cyfrin Updraft, smart contract security and auditing
+- Starknet Developer Camp
+- Smart Contract Developer at Paycrypt, 2025 to 2026
