@@ -1,6 +1,6 @@
 # Afolabi Ayomide Emmanuel
 
-Senior blockchain engineer. I work in Solidity, Cairo and Rust across protocol design, security review, AI agents and the full stack around them: the back end, the payment rails and the interface.
+Blockchain engineer. I work in Solidity, Cairo and Rust across protocol design, security review, AI agents and the full stack around them: the back end, the payment rails and the interface.
 
 [spagero.tech](https://spagero.tech) · [afolabispagero71@gmail.com](mailto:afolabispagero71@gmail.com) · [X](https://x.com/Spagero71) · [LinkedIn](https://www.linkedin.com/in/afolabi-ayomide-emmanuel-bba6b9367/)
 
